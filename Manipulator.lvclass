@@ -151,6 +151,15 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 	</Item>
+	<Item Name="drawing_spline.vi" Type="VI" URL="../../Users/Arek/Documents/LabVIEW Data/programy_workspace/ROBOTY PRZEMYSŁOWE/drawing_spline.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;`!!!!$1"/1(!!"Q%#!!!!!=!K&gt;5&amp;4:"(3EX-!I#12[_9!!!!%+PK@%1NK%&gt;+C5!#A*.AS41!!!!%!!!!#&amp;%&amp;V&gt;'^N982J&lt;WYA5G6G&lt;H6N)'FO!!!%!!!!"U!+!!&amp;9!"J!1!!"`````Q!#$&amp;&gt;Q]\.S?OJE&lt;G5A7!!!"U!+!!&amp;:!"J!1!!"`````Q!%$6&gt;T=0/T=HLK:'ZF)&amp;E!'E"!!!(`````!!1.6X.Q]\.S?OJE&lt;G5A7A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!(!!A!#2.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!":!5!!$!!=!#!!*#76S=G^S)'^V&gt;!"M!0!!%!!!!!%!!1!"!!%!!Q!"!!5!!1!'!!%!#A!"!!%!!1!,!Q!"#!!!#A!!!!!!!!!!!!!!!!!!!!!!!!%+!!!!!!!!!1I!!!!!!!!"#A!!!!!!!!!+!!!!!!!!!!!!!!!!!!!!$1M!!!!"!!Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">268435456</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
+	</Item>
 	<Item Name="Manipulator_Create.vi" Type="VI" URL="../Manipulator_Create.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%C!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#R!=!!?!!!6%UVB&lt;GFQ&gt;7RB&gt;'^S,GRW9WRB=X-!$8*F:G6S:7ZD:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!M1(!!(A!!&amp;2..97ZJ=(6M982P=CZM&gt;G.M98.T!!RS:7:F=G6O9W5A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!#!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -322,7 +331,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143250</Property>
 	</Item>
-	<Item Name="SplittingStrings.vi" Type="VI" URL="../../Users/Arek/Desktop/SplittingStrings.vi">
+	<Item Name="SplittingStrings.vi" Type="VI" URL="../SplittingStrings.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;@!!!!"Q!%!!!!&amp;5!$!!^/&gt;7VF=GFD)%.P&lt;H2S&lt;WQ!1%"!!!(`````!!%S18*S98EA&gt;'BB&gt;#"D&lt;WZU97FO=S"Q=G^Q:8)A&lt;W:G=W6U=S"J&lt;C"G&lt;'&amp;T;#"N:7VP=HE!!%R!1!!"`````Q!"0U&amp;S=G&amp;Z)(2I981A9W^O&gt;'&amp;J&lt;H-A=(*P='6S)'ZV&lt;7*F=C"P:C"E982B)':J&lt;'6T)'FO)':M98.I)'VF&lt;7^S?1!/1$$`````"&amp;2&amp;7&amp;1!!&amp;"!1!!"`````Q!%1U&amp;S=G&amp;Z)'^G)$%W,8.J:WZT)'RP&lt;G=A=X2S;7ZH=S"X;'FD;#"X;7RM)'*F)(&gt;S&lt;X2F)'FO)':M98.I)'VF&lt;7^S?3!!6!$Q!!Q!!!!#!!-!"1!!!!!!!!!!!!!!!!!!!!1$!!"Y!!!!!!!!#1!!!!E!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!1!'!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">268435456</Property>
