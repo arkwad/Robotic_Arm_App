@@ -142,7 +142,7 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1342972434</Property>
 		</Item>
 	</Item>
-	<Item Name="Main.vi" Type="VI" URL="../../Users/Arek/Documents/LabVIEW Data/Robotic_ARM/Main.vi">
+	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">268435456</Property>
@@ -151,7 +151,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 	</Item>
-	<Item Name="drawing_spline.vi" Type="VI" URL="../../Users/Arek/Documents/LabVIEW Data/programy_workspace/ROBOTY PRZEMYSŁOWE/drawing_spline.vi">
+	<Item Name="drawing_spline.vi" Type="VI" URL="../drawing_spline.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;`!!!!$1"/1(!!"Q%#!!!!!=!K&gt;5&amp;4:"(3EX-!I#12[_9!!!!%+PK@%1NK%&gt;+C5!#A*.AS41!!!!%!!!!#&amp;%&amp;V&gt;'^N982J&lt;WYA5G6G&lt;H6N)'FO!!!%!!!!"U!+!!&amp;9!"J!1!!"`````Q!#$&amp;&gt;Q]\.S?OJE&lt;G5A7!!!"U!+!!&amp;:!"J!1!!"`````Q!%$6&gt;T=0/T=HLK:'ZF)&amp;E!'E"!!!(`````!!1.6X.Q]\.S?OJE&lt;G5A7A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!(!!A!#2.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!":!5!!$!!=!#!!*#76S=G^S)'^V&gt;!"M!0!!%!!!!!%!!1!"!!%!!Q!"!!5!!1!'!!%!#A!"!!%!!1!,!Q!"#!!!#A!!!!!!!!!!!!!!!!!!!!!!!!%+!!!!!!!!!1I!!!!!!!!"#A!!!!!!!!!+!!!!!!!!!!!!!!!!!!!!$1M!!!!"!!Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">268435456</Property>
