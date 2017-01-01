@@ -277,15 +277,6 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
-	<Item Name="Untitled 6 (SubVI).vi" Type="VI" URL="../Untitled 6 (SubVI).vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%7!!!!#A!%!!!!&amp;U!+!"&amp;/&gt;7VF=GFD)%.P&lt;H2S&lt;WQA-Q!81!I!%5ZV&lt;76S;7-A1W^O&gt;(*P&lt;#!S!"6!#A!04H6N:8*J9S"$&lt;WZU=G^M!"&gt;!#A!24H6N:8*J9S"$&lt;WZU=G^M)$1!&amp;U!+!"&amp;/&gt;7VF=GFD)%.P&lt;H2S&lt;WQA/!!81!I!%5ZV&lt;76S;7-A1W^O&gt;(*P&lt;#!X!"&gt;!#A!24H6N:8*J9S"$&lt;WZU=G^M)$9!&amp;U!+!"&amp;/&gt;7VF=GFD)%.P&lt;H2S&lt;WQA.1"5!0!!$!!!!!%!!A!$!!1!!!!&amp;!!!!!!!'!!=!#!)!!(A!!!!!!!!.#1!!$1I!!!U,!!!."A!!!!!!!!I!!!!!!!!!!!!!!!I!!!!+!!!!#A!!!!!"!!E!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">268435456</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
-	</Item>
 	<Item Name="StopSerial.vi" Type="VI" URL="../StopSerial.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$:!!!!"Q!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!)%"1!!-!!1!#!!-4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!S1(!!$A6*&lt;H.U=A!!&amp;!#!!!!!!!%!"!!!!!%!!!!!!!!/6EF413"3:7:O&gt;7UA;7Y!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!%!!!!!!!&amp;!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!)!!!!!!%!"A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
